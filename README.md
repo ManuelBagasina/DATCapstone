@@ -1,4 +1,5 @@
 # DATCapstone
 
-Current overleaf documents
-https://www.overleaf.com/project/67db75d0df34238b8236797c
+If you cant access the TFT google collab:
+
+https://colab.research.google.com/github/ManuelBagasina/DATCapstone/blob/ML-Manuel/TFT.ipynb
